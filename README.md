@@ -7,7 +7,7 @@
 
 
 
-https://github.com/DenverCoder1/github-readme-streak-stats
+[GitHub Streak](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!---
 ChrisForti/ChrisForti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
