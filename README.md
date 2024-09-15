@@ -8,7 +8,7 @@
   - [codevessel.org](https://codevessel.org)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisForti&langs_count=8)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisForti&langs_count=6)   
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisForti&show_icons=true&theme=radical)
 
