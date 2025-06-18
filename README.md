@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on API construction, frontend projects, and Bash shellscripting
 - 📫 How to reach me:
   - **email** `christopher.forti.79@gmail.com`   
-  - [codevessel.org](https://codevessel.org)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisForti&langs_count=6)   
